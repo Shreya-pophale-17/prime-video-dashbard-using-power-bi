@@ -17,4 +17,4 @@ Filter Controls: Use the built-in filters and slicers to view data based on spec
 Power BI Desktop Version: [Specify version, if necessary] Data Access: [Describe data source requirements]
 
 output :
-"C:\Users\IICET 8\Pictures\Screenshots\Screenshot (10).png"
+![image alt](https://github.com/Shreya-pophale-17/prime-video-dashbard-using-power-bi/blob/932f09dfac4279a8cadec23fefe9268d04ddfd7f/prime%20video%20dashboard.png)
